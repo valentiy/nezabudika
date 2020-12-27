@@ -1,2 +1,2 @@
 # nezabudika
-An andriod app to remind you about your plans in specific area 
+An android app to remind you about your plans in specific area 
